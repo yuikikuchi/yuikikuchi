@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#5BA9FF&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **yuikikuchi/yuikikuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
