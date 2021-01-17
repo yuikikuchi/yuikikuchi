@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/yuikikuchi/yuikikuchi/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/yuikikuchi/yuikikuchi/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
 
-![](https://raw.githubusercontent.com/yuikikuchi/yuikikuchi/main/img/SmartFix119_dev.png)
+[![](https://raw.githubusercontent.com/yuikikuchi/yuikikuchi/main/img/SmartFix119_dev.png)](https://yuikikuchi.github.io/smartfix119/document/index.html)
